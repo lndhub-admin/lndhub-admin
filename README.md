@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Deploy for production
 - Collect HowTo's and Snippets 
 - Code Repo fo Admin extension Components
+- Documetation Deploy for production
 
 <!--
 **lndhub-admin/lndhub-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

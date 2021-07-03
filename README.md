@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Collect HowTo's and Snippets 
-- Code Repo fo Admin extension Components
+- Code Repo fo Admin Extension Components
 - Documetation Deploy for production
 
 <!--

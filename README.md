@@ -2,7 +2,7 @@
 
 - Collect HowTo's and Snippets 
 - Code Repo fo Admin Extension Components
-- Documetation "Best Pratices" and Deploy for production
+- Documetation "Best Practices" and Deploy for production
 
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0
 

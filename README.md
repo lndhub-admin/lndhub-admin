@@ -2,9 +2,7 @@
 
 ### LndHub Admin is a Node.js Lightning Network Toolbox
 
-Using LndHub's accounting the toolbox enableling building lapp's 
-
-for Ex. creating _Federated Bitcoin Tribes_.
+Using LndHub's accounting for user wallets. 
 
 - Collect HowTo's and Snippets
 - Code Repo fo Admin Extension Components

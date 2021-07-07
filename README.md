@@ -8,7 +8,9 @@ Using LndHub's accounting the toolbox enableling for Ex. creating _Federated Bit
 - Code Repo fo Admin Extension Components
 - Documetation "Best Practices" and Deploy for production
 
-![LndHub Admin Toolbox] (https://github.com/lndhub-admin/lndhub-admin/media/LNDHAT-ROUND.png)
+![LndHub Admin Toolbox](https://github.com/lndhub-admin/lndhub-admin/media/LNDHAT-ROUND.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0
 

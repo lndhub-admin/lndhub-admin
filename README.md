@@ -9,7 +9,7 @@ Using LndHub's accounting the toolbox enableling for Ex. creating _Federated Bit
 - Documetation "Best Practices" and Deploy for production
 
 
-![LndHub Admin Toolbox](https://thingin.cloud/media/lnhat-round.png)
+> ![LndHub Admin Toolbox](https://thingin.cloud/media/lnhat-round.png)
 
 
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0

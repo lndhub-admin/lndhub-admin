@@ -1,15 +1,16 @@
 <!-- ### Hi there 👋 -->
 
 ### LndHub Admin is a Node.js Lightning Network Toolbox
+
 Using LndHub's accounting the toolbox enableling for Ex. creating _Federated Bitcoin Tribes_.
 
-- Collect HowTo's and Snippets 
+- Collect HowTo's and Snippets
 - Code Repo fo Admin Extension Components
 - Documetation "Best Practices" and Deploy for production
 
+[LndHub Admin Toolbox] (https://github.com/lndhub-admin/lndhub-admin/media/LNDHAT-ROUND.png)
+
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0
-
-
 
 <!--
 **lndhub-admin/lndhub-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

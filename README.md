@@ -8,6 +8,10 @@ Using LndHub's accounting for user wallets.
 - Code Repo fo Admin Extension Components
 - Documetation "Best Practices" and Deploy for production
 
+There is a /LndHub/extensions folder where one can extend LndHub and run in same memory area,
+and there is /LndHub-Extensions that would live outside of the LndHub folder (for babel build reasons) 
+invocated in its own memory area while sharing the Redis DB and use API calls with LndHub core.
+
 
  ![LndHub Admin Toolbox](/media/LNHAT-ROUND.jpg)
 

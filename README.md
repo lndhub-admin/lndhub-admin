@@ -4,7 +4,7 @@
 
 Using LndHub's accounting for 
 
-> #### account ( wallet ( users ) ). 
+> #### accounts ( wallets ( users ) ). 
 
 ---
 

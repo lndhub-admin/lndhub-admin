@@ -17,13 +17,13 @@ This repo will contain
 
 ## The Design of extensions / Extensions
 
+There is a ```/LndHub/extensions/*``` folder where one can extend LndHub and run in same memory area as LndHub,
 > #### ```/LndHub/extensions/admin```
-There is a ```/LndHub/extensions/*``` folder where one can extend LndHub and run in same memory area,
+> https://github.com/lndhub-admin/LndHub-Admin-Extension
 
-
-> #### ```/LndHub-Extensions/*```
 and there is ```/LndHub-Extensions``` that lives outside of the LndHub folder (for babel build reasons) 
 invocated in its own memory area while sharing the Redis DB and use API calls to LndHub-Admin core.
+> #### ```/LndHub-Extensions/*```
 
 
 

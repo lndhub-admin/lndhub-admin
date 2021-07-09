@@ -2,15 +2,15 @@
 
 ### LndHub Admin is a Node.js Lightning Network Toolbox
 
-Using LndHub's accounting for user wallets. 
+Using LndHub's accounting for account(wallet(users)). 
 
 - Collect HowTo's and Snippets
 - Code Repo fo Admin Extension Components
 - Documetation "Best Practices" and Deploy for production
 
 There is a /LndHub/extensions folder where one can extend LndHub and run in same memory area,
-and there is /LndHub-Extensions that would live outside of the LndHub folder (for babel build reasons) 
-invocated in its own memory area while sharing the Redis DB and use API calls with LndHub core.
+and there is /LndHub-Extensions that lives outside of the LndHub folder (for babel build reasons) 
+invocated in its own memory area while sharing the Redis DB and use API calls to LndHub-Admin core.
 
 
  ![LndHub Admin Toolbox](/media/LNHAT-ROUND.jpg)

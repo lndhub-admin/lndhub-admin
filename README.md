@@ -2,13 +2,18 @@
 
 ## LndHub Admin is a Node.js Lightning Network Toolbox
 
-Using LndHub's accounting for 
+Using LndHub's accounting for
 
-> #### accounts ( wallets ( users ) ). 
+> #### accounts ( wallets ( users ) ).
+
+If You run a node and will be "Uncle-Jim" for family and friends or community.
+If You run a node and need to have separate accounts in front of LND wallet.
+If You need a toolbox "Kitchen" Sink" included for building LApp's.
 
 ---
 
-This repo will contain 
+This repo will contain :
+
 - Collect HowTo's and Snippets
 - Code Repo fo Admin Extension Components
 - Documetation "Best Practices" and Deploy for production
@@ -17,21 +22,20 @@ This repo will contain
 
 ## The Design of extensions / Extensions
 
-There is a ```/LndHub/extensions/*``` folder where one can extend LndHub and run in same memory area as LndHub,
-> #### ```/LndHub/extensions/admin```
+There is a `/LndHub/extensions/*` folder where one can extend LndHub and run in same memory area as LndHub,
+
+> #### `/LndHub/extensions/admin`
+>
 > https://github.com/lndhub-admin/LndHub-Admin-Extension
 
-and there is ```/LndHub-Extensions``` that lives outside of the LndHub folder (for babel build reasons) 
+and there is `/LndHub-Extensions` that lives outside of the LndHub folder (for babel build reasons)
 invocated in its own memory area while sharing the Redis DB and use API calls to LndHub-Admin core.
-> #### ```/LndHub-Extensions/*```
 
+> #### `/LndHub-Extensions/*`
 
+The `/LndHub-Extensions/*` can use any Language and Framework while authenticating to LndHub-Admin core API.
 
-The ```/LndHub-Extensions/*``` can use any Language and Framework while authenticating to LndHub-Admin core API.
-
-
- ![LndHub Admin Toolbox](/media/LNHAT-ROUND-libs.png)
-
+![LndHub Admin Toolbox](/media/LNHAT-ROUND-libs.png)
 
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0
 

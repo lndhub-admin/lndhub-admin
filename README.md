@@ -12,9 +12,9 @@ If You run a node and need to have separate accounts in front of LND wallet.
 
 If You run a node and will be "Uncle-Jim" for family and friends or community.
 
-If You need a toolbox "Kitchen Sink and batteries" included for building LApp's.
+If You need a toolbox "Kitchen Sink and Batteries" included for building LApp's.
 
-## Eanbles Accounts to the LND wallet . who payed what, when . why is up to You to deduct.
+## Eanbles Accounts to the LND wallet . who payed what, when ...
 
 This repo will contain :
 

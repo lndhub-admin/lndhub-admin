@@ -12,7 +12,8 @@ If You run a node and need to have separate accounts in front of LND wallet.
 
 If You need a toolbox "Kitchen Sink" included for building LApp's.
 
----
+## Eanbles Accounts to the LND wallet . who payed what, when . why is up to You to deduct.
+
 
 This repo will contain :
 

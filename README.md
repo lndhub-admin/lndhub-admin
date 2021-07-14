@@ -2,18 +2,19 @@
 
 ## LndHub Admin is a Node.js Lightning Network Toolbox
 
-Using LndHub's accounting for
+Using LndHub for
 
 > #### accounts ( wallets ( users ) ).
 
-If You run a node and will be "Uncle-Jim" for family and friends or community.
+---
 
 If You run a node and need to have separate accounts in front of LND wallet.
 
-If You need a toolbox "Kitchen Sink" included for building LApp's.
+If You run a node and will be "Uncle-Jim" for family and friends or community.
+
+If You need a toolbox "Kitchen Sink and batteries" included for building LApp's.
 
 ## Eanbles Accounts to the LND wallet . who payed what, when . why is up to You to deduct.
-
 
 This repo will contain :
 

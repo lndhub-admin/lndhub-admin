@@ -39,7 +39,7 @@ invocated in its own memory area while sharing the Redis DB and use API calls to
 
 The `/LndHub-Extensions/*` can use any Language and Framework while authenticating to LndHub-Admin core API.
 
-> ![LndHub Admin Toolbox](/media/LNHAT-ROUND.png)
+> ![LndHub Admin Toolbox](/media/LNHAT-ROUND.jpg)
 
 TG : https://t.me/joinchat/L31KXn9TlDNmMTY0
 
